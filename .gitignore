@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/WebApiEfCorePagination/.vs/WebApiEfCorePagination/v17
+/obj
+/.vs
