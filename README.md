@@ -1,3 +1,3 @@
 # web-api-ef-core-pagination
 
-Pagination example using web api and ef core
+Example pagination using web api and ef core
